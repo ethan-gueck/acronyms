@@ -1,0 +1,80 @@
+"""Acronyms: the mathematics behind every neuron in this track, in flashcard order.
+
+This is the file to learn from. Each neuron has a section; its formulas are
+written the way they read, with no input checks, rounding cleanup or
+formatting. Sections stay empty until that neuron is built. The pages'
+scaffolding lives in each topic folder and imports from here, and each page's
+"View the code" popup shows the functions it uses from this file.
+"""
+
+# _____________ AC.1 CNN _____________
+
+# _____________ AC.2 RNN _____________
+
+# _____________ AC.3 LSTM _____________
+
+# _____________ AC.4 GRU _____________
+
+# _____________ AC.5 GAN _____________
+
+# _____________ AC.6 VAE _____________
+
+# _____________ AC.7 LLM _____________
+
+# _____________ AC.8 NLP _____________
+
+# _____________ AC.9 RAG _____________
+
+# _____________ AC.10 MLP _____________
+
+# _____________ AC.11 SGD _____________
+
+# _____________ AC.12 ReLU _____________
+
+# _____________ AC.13 ROC / AUC _____________
+
+# _____________ AC.14 MSE / RMSE / MAE _____________
+
+# _____________ AC.15 PCA _____________
+
+# _____________ AC.16 SVD _____________
+
+# _____________ AC.17 SVM _____________
+
+# _____________ AC.18 k-NN _____________
+
+# _____________ AC.19 EDA _____________
+
+# _____________ AC.20 ETL _____________
+
+# _____________ AC.21 TF-IDF _____________
+
+# _____________ AC.22 BERT _____________
+
+# _____________ AC.23 GPT _____________
+
+# _____________ AC.24 OLS _____________
+
+# _____________ AC.25 MLE / MAP _____________
+
+# _____________ AC.26 MCMC _____________
+
+# _____________ AC.27 KL _____________
+
+# _____________ AC.28 i.i.d. _____________
+
+# _____________ AC.29 PDF / PMF / CDF _____________
+
+# _____________ AC.30 IQR _____________
+
+# _____________ AC.31 CI _____________
+
+# _____________ AC.32 RL _____________
+
+# _____________ AC.33 LP / MIP / NLP _____________
+
+# _____________ AC.34 ODE / PDE _____________
+
+# _____________ AC.35 GPU _____________
+
+# _____________ AC.36 MLOps _____________
