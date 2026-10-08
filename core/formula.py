@@ -1,9 +1,4 @@
-"""Acronyms: the mathematics behind every neuron in this track, in flashcard order.
-
-Sections stay empty until that neuron is built. The pages' scaffolding lives
-in each topic folder and imports from here, and each page's "View the code"
-popup shows the functions it uses from this file.
-"""
+"""Acronyms: the mathematics behind every neuron in this track, in flashcard order."""
 
 # _____________ AC.1 CNN _____________
 
